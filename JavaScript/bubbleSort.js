@@ -19,6 +19,6 @@ function bubbleSort(array){
 
 array = [64,74,3,6,7,9,12]
 
-solution = bubbleSort(array)
+let solution = bubbleSort(array)
 
 console.log(solution)
